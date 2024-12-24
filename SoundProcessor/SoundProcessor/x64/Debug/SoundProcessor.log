@@ -1,0 +1,9 @@
+﻿  CommandProcessor.cpp
+  ConvecterFactorycpp.cpp
+  MixConverter.cpp
+C:\Users\CifronPro\Desktop\Learning\C++\SoundProcessor\MixConverter.cpp(11,61): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  WavFile.cpp
+C:\Users\CifronPro\Desktop\Learning\C++\SoundProcessor\WavFile.cpp(36,43): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  SoundProcessor.vcxproj -> C:\Users\CifronPro\Desktop\Learning\C++\SoundProcessor\x64\Debug\SoundProcessor.exe

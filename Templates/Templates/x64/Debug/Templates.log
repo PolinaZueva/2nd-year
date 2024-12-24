@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\CifronPro\Desktop\Learning\C++\Templates\CsvParser.h(112,42): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "main.cpp")
+      C:\Users\CifronPro\Desktop\Learning\C++\Templates\CsvParser.h(112,42):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\CifronPro\Desktop\Learning\C++\Templates\main.cpp(51,31):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "CsvIterator<int,int,std::string,int,int,double>"
+          C:\Users\CifronPro\Desktop\Learning\C++\Templates\CsvParser.h(107,18):
+          во время компиляции функции-члена класс шаблон "CsvIterator<int,int,std::string,int,int,double> &CsvIterator<int,int,std::string,int,int,double>::operator ++(void)"
+              C:\Users\CifronPro\Desktop\Learning\C++\Templates\main.cpp(51,31):
+              см. первую ссылку на CsvIterator<int,int,std::string,int,int,double>::operator ++ "main"
+  
+  Templates.vcxproj -> C:\Users\CifronPro\Desktop\Learning\C++\Templates\x64\Debug\Templates.exe
