@@ -5,4 +5,4 @@
 *.pdb
 *.idb
 *.ilk
-"Templates/2nd-year/" 
+*.vcxproj.filters
