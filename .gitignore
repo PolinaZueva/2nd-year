@@ -6,3 +6,7 @@
 *.idb
 *.ilk
 *.vcxproj.filters
+
+# Игнорировать файлы .gitattributes и .gitignore
+.gitattributes
+.gitignore
