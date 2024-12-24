@@ -6,7 +6,11 @@
 *.idb
 *.ilk
 *.vcxproj.filters
+*.vcxproj.user
 
 # Игнорировать файлы .gitattributes и .gitignore
 .gitattributes
 .gitignore
+
+# Игнорировать всю папку x64
+x64/
